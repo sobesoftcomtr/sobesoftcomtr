@@ -1,4 +1,4 @@
-- 👋 Hi, We’re @sobesoft
+- 👋 Hi, We’re Sobesoft
 - 👀 We provide professional services about E-commerce, Web design, Google Ads, SEO and all dijital media tools. 
 - 📫 You can reach us via info@sobesoft.com.tr or +90 535 981 9067
 
