@@ -1,6 +1,6 @@
 - 👋 Hi, We’re Sobesoft
-- 👀 We provide professional services about E-commerce, Web design, Google Ads, SEO and all dijital media tools. 
-- 📫 You can reach us via info@sobesoft.com.tr or +90 535 981 9067
+- 👀 We provide professional services about E-commerce, Web design, Web and Mobile Software, Google Ads, SEO and all dijital media tools. 
+- 📫 You can reach us via info@sobesoft.com.tr or +90 (212) 803 51 36
 
 <!---
 sobesoftcomtr/sobesoftcomtr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
